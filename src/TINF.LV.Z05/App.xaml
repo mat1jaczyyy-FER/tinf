@@ -1,0 +1,6 @@
+﻿<!-- Za UI se koristi WPF okružje. U aplikaciji definiramo prozor koji se prvi pokreće -->
+<Application x:Class="TINF.LV.Z05.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TINF.LV.Z05"
+             StartupUri="UI.xaml" />
